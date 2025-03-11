@@ -1,4 +1,6 @@
-## Hi there 👋
+## 박시후
+
+대구과학고등학교 38기 1406 박시후입니다.
 
 <!--
 **sihu4532/sihu4532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
